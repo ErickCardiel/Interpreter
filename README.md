@@ -21,7 +21,8 @@ Como fue mencionado anteriormente la interfaz gráfica cuenta con un JTextArea p
 
 
 El botón de compilar como su nombre lo indica compila el pseudocódigo, si esta escrito incorrectamente según la gramática, el Parser mandara un error en la línea de comandos y en la interfaz gráfica el pseudocódigo se coloreara de color rojo indicando error:
-![enter image description here](https://lh3.googleusercontent.com/HvZvow8937i3H7lPpD-J4igTTItjJKfSl4pVSv-hwfaQoXow3rTV4YQHIMSX0EI5iLC2q3hTAlC9 )
+![enter image description here](https://lh3.googleusercontent.com/HvZvow8937i3H7lPpD-J4igTTItjJKfSl4pVSv-hwfaQoXow3rTV4YQHIMSX0EI5iLC2q3hTAlC9)
+
 
 De manera contraria, si el código esta escrito correctamente este será coloreado de azul indicando que ya se puede ejecutar las instrucciones.
 
@@ -29,7 +30,8 @@ De manera contraria, si el código esta escrito correctamente este será colorea
 ![enter image description here](https://lh3.googleusercontent.com/DYkXJxyhfp_V6uTAY36wFr2ekYzYLPP_7sfABvRaabtQg3qUxMuJrvQ4_UcAX7OdL1WTowVsMMi4)
 
 
+
 Al dar click en Ejecutar y si el código esta compilado, el pokemon comenzara a realizar las acciones especificadas en el pseudocódigo.
 
 
-(https://lh3.googleusercontent.com/yeh50NjtFm0pHA85sgU8nmZnPfcX3fct-hq5LcIIwsaBrUxrfWB4XFRshZk1Os06DI0PWZZneQbN)
+![enter image description here](https://lh3.googleusercontent.com/yeh50NjtFm0pHA85sgU8nmZnPfcX3fct-hq5LcIIwsaBrUxrfWB4XFRshZk1Os06DI0PWZZneQbN)
