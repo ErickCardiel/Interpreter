@@ -21,6 +21,8 @@ Como fue mencionado anteriormente la interfaz gráfica cuenta con un JTextArea p
 
 
 El botón de compilar como su nombre lo indica compila el pseudocódigo, si esta escrito incorrectamente según la gramática, el Parser mandara un error en la línea de comandos y en la interfaz gráfica el pseudocódigo se coloreara de color rojo indicando error:
+
+
 ![enter image description here](https://lh3.googleusercontent.com/HvZvow8937i3H7lPpD-J4igTTItjJKfSl4pVSv-hwfaQoXow3rTV4YQHIMSX0EI5iLC2q3hTAlC9)
 
 
